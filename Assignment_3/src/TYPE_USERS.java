@@ -1,6 +1,0 @@
-
-public enum TYPE_USERS {
-	TESISTA,
-	PROFESSORE,
-	STUDENTE
-}

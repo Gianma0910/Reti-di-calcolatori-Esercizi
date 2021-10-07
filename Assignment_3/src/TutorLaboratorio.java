@@ -5,19 +5,25 @@ import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.ReentrantLock;
 
 public class TutorLaboratorio {
-	private ArrayList<Boolean> computers = new ArrayList<>(Arrays.asList(new Boolean[20]));
+	private ArrayList<Boolean> computers;
 	private ReentrantLock lock = new ReentrantLock();
 	Condition freeComputer;
+	Condition profCondition;
 	
 	public TutorLaboratorio() {
+		computers = new ArrayList<>(Arrays.asList(new Boolean[20]));
 		Collections.fill(computers, Boolean.FALSE);
 		this.freeComputer = lock.newCondition();
+		this.profCondition = lock.newCondition();
 	}
 	
 	public void getComputer(int index_computer, String message) throws InterruptedException {
 		try {
 			lock.lock();
-			while(computers.get(index_computer).equals(Boolean.TRUE)){
+			while(computers.get(index_computer).equals(Boolean.TRUE) || lock.hasWaiters(profCondition)){
+				if(lock.hasWaiters(profCondition)) {
+					profCondition.signal();
+				}
 				freeComputer.await();
 			}
 			
@@ -38,7 +44,7 @@ public class TutorLaboratorio {
 		try {
 			lock.lock();
 			while(computers.contains(Boolean.TRUE)){
-				freeComputer.await();
+				profCondition.await();
 			}
 			
 			Collections.fill(computers, Boolean.TRUE);
@@ -56,7 +62,10 @@ public class TutorLaboratorio {
 	public void getAComputer(String message) throws InterruptedException {
 		try {
 			lock.lock();
-			while(!computers.contains(Boolean.FALSE)){
+			while(!computers.contains(Boolean.FALSE) || lock.hasWaiters(profCondition)){
+				if(lock.hasWaiters(profCondition)) {
+					profCondition.signal();
+				}
 				freeComputer.await();
 			}
 			
@@ -64,7 +73,7 @@ public class TutorLaboratorio {
 			computers.set(index, Boolean.TRUE);
 			lock.unlock();
 			
-			System.out.println("Computer " + index + message);
+			System.out.println(message);
 			Thread.sleep(3000);
 			
 			lock.lock();

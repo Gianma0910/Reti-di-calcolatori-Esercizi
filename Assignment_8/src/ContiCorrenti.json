@@ -1,0 +1,890 @@
+[
+  {
+    "nomeCorrentista": "Gianluca",
+    "cognomeCorrentista": "Tognini",
+    "movimentiCorrentista": [
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "PagoBancomat"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Bollettino"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Accredito"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Bonifico"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "PagoBancomat"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Bonifico"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Accredito"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Accredito"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Bollettino"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Accredito"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "F24"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Bollettino"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "PagoBancomat"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Accredito"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "F24"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "F24"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Bollettino"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Accredito"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "F24"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "PagoBancomat"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "F24"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "F24"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Accredito"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Bollettino"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "F24"
+      }
+    ]
+  },
+  {
+    "nomeCorrentista": "Jessica",
+    "cognomeCorrentista": "Federighi",
+    "movimentiCorrentista": [
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "PagoBancomat"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "PagoBancomat"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "PagoBancomat"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Accredito"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "PagoBancomat"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Bonifico"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Bollettino"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "F24"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Bonifico"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Bollettino"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Bollettino"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Bollettino"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Accredito"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Accredito"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Accredito"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Bollettino"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Bollettino"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Bonifico"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Accredito"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Accredito"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "F24"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Bollettino"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "PagoBancomat"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "PagoBancomat"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Bonifico"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Accredito"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "PagoBancomat"
+      }
+    ]
+  },
+  {
+    "nomeCorrentista": "Gabriella",
+    "cognomeCorrentista": "Benedetti",
+    "movimentiCorrentista": [
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "F24"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "F24"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Accredito"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "PagoBancomat"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Accredito"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Accredito"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Bollettino"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "F24"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Bollettino"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Bollettino"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Bollettino"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Bollettino"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "F24"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "PagoBancomat"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "F24"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Bonifico"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "F24"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Accredito"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Accredito"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "F24"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Bollettino"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Accredito"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Bollettino"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "F24"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Bonifico"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Accredito"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "F24"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "F24"
+      }
+    ]
+  },
+  {
+    "nomeCorrentista": "Gianmarco",
+    "cognomeCorrentista": "Bertolucci",
+    "movimentiCorrentista": [
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Bonifico"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Accredito"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Bollettino"
+      }
+    ]
+  },
+  {
+    "nomeCorrentista": "Jessica",
+    "cognomeCorrentista": "Benedetti",
+    "movimentiCorrentista": [
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Accredito"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Bonifico"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "PagoBancomat"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Bonifico"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Bollettino"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "F24"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Bonifico"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Accredito"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Bonifico"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Bonifico"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Bollettino"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "PagoBancomat"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Bonifico"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Bollettino"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Accredito"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Accredito"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Bollettino"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Bonifico"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "PagoBancomat"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "F24"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Bonifico"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "F24"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "PagoBancomat"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Accredito"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Accredito"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Accredito"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "PagoBancomat"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Accredito"
+      }
+    ]
+  },
+  {
+    "nomeCorrentista": "Massimo",
+    "cognomeCorrentista": "Silla",
+    "movimentiCorrentista": [
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "F24"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Accredito"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Bonifico"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Accredito"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "PagoBancomat"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Bonifico"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "PagoBancomat"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Bonifico"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Bonifico"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "PagoBancomat"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Bollettino"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "F24"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "F24"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Accredito"
+      }
+    ]
+  },
+  {
+    "nomeCorrentista": "Gianmarco",
+    "cognomeCorrentista": "Bertolucci",
+    "movimentiCorrentista": [
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Bonifico"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "PagoBancomat"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Accredito"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Bonifico"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Bollettino"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "F24"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "PagoBancomat"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "F24"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "PagoBancomat"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Bonifico"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Bonifico"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Bonifico"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Accredito"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "PagoBancomat"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "F24"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Bollettino"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "F24"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "F24"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Bonifico"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Accredito"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Accredito"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Bonifico"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Accredito"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Accredito"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "F24"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Bollettino"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "PagoBancomat"
+      }
+    ]
+  },
+  {
+    "nomeCorrentista": "Federica",
+    "cognomeCorrentista": "Consani",
+    "movimentiCorrentista": [
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Accredito"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "F24"
+      }
+    ]
+  },
+  {
+    "nomeCorrentista": "Gianmarco",
+    "cognomeCorrentista": "Bertolucci",
+    "movimentiCorrentista": [
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Bonifico"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Bollettino"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Bollettino"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Bollettino"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Accredito"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Bollettino"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Bonifico"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "F24"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Bonifico"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Accredito"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Bollettino"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Accredito"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Bonifico"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Accredito"
+      }
+    ]
+  },
+  {
+    "nomeCorrentista": "Giuseppe",
+    "cognomeCorrentista": "Bertolucci",
+    "movimentiCorrentista": [
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "F24"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "PagoBancomat"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Bonifico"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "PagoBancomat"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "F24"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Accredito"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "F24"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "PagoBancomat"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "PagoBancomat"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Accredito"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Bollettino"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Accredito"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Accredito"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "F24"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "F24"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "PagoBancomat"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "F24"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "F24"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Bollettino"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Bonifico"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Bollettino"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "F24"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Bollettino"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "F24"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "F24"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "PagoBancomat"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "PagoBancomat"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "F24"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "F24"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Bollettino"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Accredito"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Bonifico"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Bollettino"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Accredito"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "PagoBancomat"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Bollettino"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "Accredito"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "F24"
+      },
+      {
+        "data": "Fri Nov 12 20:07:32 CET 2021",
+        "causale": "PagoBancomat"
+      }
+    ]
+  }
+]

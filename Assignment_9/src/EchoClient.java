@@ -29,7 +29,7 @@ public class EchoClient {
 				//send messageClient to server
 				buffer.put(messageClient.getBytes());
 				buffer.flip();
-				socket.write(buffer);
+				while(buffer.hasRemaining()) socket.write(buffer);
 				buffer.clear();
 				
 				//receive echo response from server
@@ -44,7 +44,7 @@ public class EchoClient {
 			//if messageClient == "quit" send to server and then close che SocketChannel
 			buffer.put(messageClient.getBytes());
 			buffer.flip();
-			socket.write(buffer);
+			while(buffer.hasRemaining()) socket.write(buffer);		
 			buffer.clear();
 			scan.close();
 			socket.close();

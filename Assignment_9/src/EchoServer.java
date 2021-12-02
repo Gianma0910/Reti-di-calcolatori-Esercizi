@@ -41,25 +41,26 @@ public class EchoServer {
 				}else if(key.isReadable()) {
 					SocketChannel client = (SocketChannel) key.channel();
 					
-					//receive from client
-					response.clear();
-					int nBytes = client.read(response);
-					
-					messageServer = new String(response.array(), 0, nBytes);
-					
-					if(messageServer.equalsIgnoreCase("quit")) {
-						System.out.println(client.getRemoteAddress().toString() + " disconnesso\n");
+					String request = receiveFromClient(client, response);
+					if(request == null) return; 
+					if(request.equals("quit")) {
+						System.out.println(client.getRemoteAddress().toString() + " : disconnesso\n");
 						client.close();
+						return;
 					}
-					
-					System.out.println(messageServer);
-					
-					//send to client
+					System.out.println(request);
+					request = request.concat(" echoed by server");
+					client.register(selector, SelectionKey.OP_WRITE, request);
+				}else if(key.isWritable()) {
+					SocketChannel client = (SocketChannel) key.channel();
+					String request = (String) key.attachment();
+				
 					response.clear();
-					messageServer = messageServer.concat(" echoed by server");
-					response.put(messageServer.getBytes());
+					response.put(request.getBytes());
 					response.flip();
-					client.write(response);
+					while(response.hasRemaining()) client.write(response);
+					
+					client.register(selector, SelectionKey.OP_READ);
 				}
 			}
 			
@@ -68,5 +69,23 @@ public class EchoServer {
 		selector.close();
 		serverSocket.close();
 		
+	}
+
+	private static String receiveFromClient(SocketChannel client, ByteBuffer response) throws IOException {
+		response.clear();
+		int nBytes;
+		
+		StringBuilder request = new StringBuilder();
+		while((nBytes = client.read(response)) > 0) {
+			request.append(new String(response.array(), 0, nBytes));
+		}
+		
+		if(nBytes == -1) {
+			System.out.println(client.getRemoteAddress().toString() + " : disconnesso\n");
+			client.close();
+			return null;
+		}
+		
+		return request.toString();
 	}
 }
